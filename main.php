@@ -1,1 +1,1 @@
-$connection = new PDO($dsn, $user, $pass, $options); //додав
+$connection = new PDO($dsn, $user, $pass, $options); 
